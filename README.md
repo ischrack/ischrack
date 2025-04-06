@@ -1,3 +1,5 @@
+# 👨‍💻 A more about me and my interests
+
 ```yaml
 name: Ian Schrack, PhD
 located_in: Minneapolis, Minnesota
