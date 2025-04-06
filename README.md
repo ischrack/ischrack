@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+# 👋 Hi there, and welcome to my GitHub (it's a work in progreess) 👋
+## Let's connect and have a chat
 
 # 👨‍💻 A more about me and my interests
 
