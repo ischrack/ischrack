@@ -2,6 +2,10 @@
 (it's a work in progreess)
 
 ## Let's connect and have a chat
+LinkedIn: www.linkedin.com/in/ian-schrack-phd
+Email: schrack.ia@gmail.com
+Instagram: https://www.instagram.com/not.even.ian/
+BlueSky: https://bsky.app/profile/ian-schrack.bsky.social
 
 # 👨‍💻 A more about me and my interests
 
