@@ -1,5 +1,6 @@
 # 👋Hi there, and welcome to my GitHub👋
 (it's a work in progreess)
+I'm currently transitioning some local projects into this repository. 
 
 ## Let's connect and have a chat
 ```yaml
