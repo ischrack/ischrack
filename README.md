@@ -1,4 +1,6 @@
-# 👋 Hi there, and welcome to my GitHub (it's a work in progreess) 👋
+# 👋Hi there, and welcome to my GitHub👋
+(it's a work in progreess)
+
 ## Let's connect and have a chat
 
 # 👨‍💻 A more about me and my interests
