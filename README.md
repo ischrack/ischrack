@@ -10,7 +10,7 @@ Instagram: https://www.instagram.com/not.even.ian/
 BlueSky: https://bsky.app/profile/ian-schrack.bsky.social
 ```
 
-# 👨‍💻 A more about me and my interests
+# 👨‍💻 A bit more about me and my interests
 
 ```yaml
 name: Ian Schrack, PhD
