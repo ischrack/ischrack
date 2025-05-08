@@ -40,6 +40,11 @@ technical_background:
     "Protein engineering"
   ]
   
+certificates:
+  [
+    "Learn Python 3"
+  ]
+
 currently_learning:
   [
     "Applied Data Science with Python (UM Coursera)",
