@@ -42,6 +42,7 @@ technical_background:
   
 certificates:
   [
+    "Intro to PyTorch and Neural Netowrks",
     "Learn Python 3"
   ]
 
