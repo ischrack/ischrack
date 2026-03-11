@@ -39,22 +39,4 @@ technical_background:
     "In vivo/in vitro models of cancer",
     "Protein engineering"
   ]
-  
-certificates:
-  [
-    "PyTorch for Classification", 
-    "Intro to PyTorch and Neural Netowrks",
-    "Learn Python 3"
-  ]
-
-currently_learning:
-  [
-    "Applied Data Science with Python (UM Coursera)",
-    "Data Scientist: Machine Learning (Codecademy)",
-    "Bioinformatics workflows: Nextflow/Snakemate/Airflow (Self-taught)",
-    "SQL (Self-taught)"
-  ]
-
-2025 Goals: ["Become proficient in python", "Perform multi-omics analysis in python", "Incorporate ML into scRNA workflow (R or Python)"]
-hobbies: ["Sports: soccer, volleyball", "Music", "Cinema", "Reading"]
 ```
