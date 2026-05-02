@@ -7,7 +7,7 @@ I'm currently transitioning some local projects into this repository.
 LinkedIn: www.linkedin.com/in/ian-schrack-phd
 Email: schrack.ia@gmail.com
 Instagram: https://www.instagram.com/not.even.ian/
-BlueSky: https://bsky.app/profile/ian-schrack.bsky.social
+Personal Website: https://ischrack.github.io/my-website/
 ```
 
 # 👨‍💻 A bit more about me and my interests
